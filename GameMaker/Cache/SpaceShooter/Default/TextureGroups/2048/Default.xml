@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="0">bachay_0.tpe</tpe>
+</TextureGroup>
